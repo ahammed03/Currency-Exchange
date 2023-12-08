@@ -15,7 +15,7 @@ This project demonstrates a Python-based Currency Exchange API wrapper with a us
 ## Getting Started
 
 1. Install Python on your machine.
-2. Clone this repository: `git clone https://github.com/TharakaramuduN/CurrencyExchange.git`
+2. Clone this repository: `git clone https://github.com/ahammed03/Currency-Exchange.git`
 3. Install required dependencies: `pip install requests`
 4. Obtain an API key from the "FIXER API" and replace `<YOUR_API_KEY>` in the code.
 5. Run the CLI program: `python currency_exchange_cli.py`
